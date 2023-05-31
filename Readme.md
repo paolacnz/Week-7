@@ -33,7 +33,7 @@
                   return "This " + obj.color + " " + obj.name + " has " + obj.legs + " legs.";
                 }
                 
-7. Return to sanity
+7. Object syntax debug
 
                  var rooms = {
                   first: {
@@ -52,4 +52,14 @@
                   }
                 }
                 
- 8.
+ 8.Return to sanity
+ 
+                     function mystery() {
+                      var results = {
+                        sanity: 'Hello'
+                        }
+                      return results
+
+                    }
+ 
+9. 
