@@ -1,1 +1,17 @@
+1. String Substr ()
+
+
+              function firstWord (z){
+                let blank = z.indexOf (' ')
+                return z.substr(0, blank)
+                }
+                
+ 2. String: Replace ()
+ 
+ 
+                 function normalize (z) {
+                return z.replace(/-/g, '/');
+                }
+                
+3. 
 
